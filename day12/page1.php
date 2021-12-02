@@ -5,7 +5,7 @@
 <div class="container" style="margin-top:30px">
   <!-- <div class="row"> -->
     <h3>หน้าที่ 1</h3>
-    <h4>ผูใช้งาน  <?php echo $_SESSION['user'] .'  '.$_SESSION['name'] ?></h4>
+    <h4>ผูใช้งาน  นายจิตตพงษ์ รักสนิท<?php echo $_SESSION['user'] .'  '.$_SESSION['name'] ?></h4>
 
     
   <!-- </div> -->
